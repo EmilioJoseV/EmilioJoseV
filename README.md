@@ -6,7 +6,8 @@
 - 🔭 I am currently working in personal projects and educational projects.
 - ⚡ Fun fact: I started as a Quality Assurance Analyst, being a serial bug detector, but then I joined the dark side of developers <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/d22eb104-49d5-4a64-9f4f-19ea03813098" /> and now I enjoy my profession more than ever.
 
- ![jim-carrey-chat](https://github.com/user-attachments/assets/5c7e2204-3c29-4787-a3c5-75159c4cb199)
+![Metrics](/github-metrics.svg)
+![jim-carrey-chat](https://github.com/user-attachments/assets/5c7e2204-3c29-4787-a3c5-75159c4cb199)
   
 📫 How to reache me: 
   - LinkedIn - https://www.linkedin.com/in/emiliojosev/
